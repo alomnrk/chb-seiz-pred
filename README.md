@@ -1,7 +1,7 @@
 This project contains realizations of several neural-networks algorithms for predicting epileptic seizures using EEG data. Realization was done using PyTorch 1.10.2.
 
 ## Data
-CHB-MIT dataset was used for learning and testing.
+[CHB-MIT](https://physionet.org/content/chbmit/1.0.0/) dataset was used for learning and testing.
 Data of patients (1, 3, 7, 9, 10, 20, 21, 22) were used. 
 Algorithms were based on [1]. 
 The preictal duration was chosen to be one hour before the seizure onset and interictal duration was chosen to be at least four hours
