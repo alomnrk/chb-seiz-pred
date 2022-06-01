@@ -5,7 +5,7 @@ This project contains realizations of several neural-networks algorithms for pre
 Data of patients (1, 3, 7, 9, 10, 20, 21, 22) were used. 
 Algorithms were based on [1]. 
 The preictal duration was chosen to be one hour before the seizure onset and interictal duration was chosen to be at least four hours
-before or after any seizure as in. So it's important to note that huge interval which colored red on image below is skipped in data.
+before or after any seizure as in. So it's important to note that huge intervals are skipped in data.
 **Therefore this type of interval can produce unpredictibale results in real situaton.**
 Data selection strategy was taken from the [1].
 
